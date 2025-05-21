@@ -1,0 +1,16 @@
+{
+  "name": "magic-square",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "convert-csv-to-json": "^3.4.0",
+    "csvtojson": "^2.0.10",
+    "stream-json": "^1.9.1"
+  }
+}
